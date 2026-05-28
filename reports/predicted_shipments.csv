@@ -1,0 +1,4 @@
+Distance_km,Fuel_Price,Carrier_Rating,Warehouse_Time_hr,Transport_Mode_Rail,Transport_Mode_Ship,Transport_Mode_Truck,Weather_Fog,Weather_Rainy,Weather_Storm,Traffic_Level_Low,Traffic_Level_Medium,Predicted_Delay_hr
+500,80,4.5,5,0,0,1,0,0,0,1,0,-3.2770999999999977
+1800,100,3.2,20,1,0,0,0,1,0,0,1,23.22280000000001
+2500,110,2.5,30,0,1,0,1,0,1,0,0,47.3091
